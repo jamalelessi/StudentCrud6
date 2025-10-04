@@ -1,0 +1,6 @@
+com\example\studentcrud6\model\Student.class
+com\example\studentcrud6\service\StudentService.class
+com\example\studentcrud6\repository\StudentRepository.class
+com\example\studentcrud6\StudentCrud6Application.class
+com\example\studentcrud6\controller\StudentController.class
+com\example\studentcrud6\exception\GlobalExceptionHandler.class
